@@ -1,0 +1,18 @@
+{
+    "theme_color" : "#ab34ff",
+    "background_color" : "#ab34ff",
+    "display" : "fullscreen",
+    "scope" : "/",
+    "start_url" : "/PWA_ININ4_PR_1_2",
+    "name" : "Salon Samochodowy",
+    "short_name" : "CarApp",
+    "description" : "projekt wsb PWA app",
+    "orientation": "portrait",
+    "icons": [
+        {
+            "src": "favicon.png",
+            "sizes": "512",
+            "types": ""
+        }
+    ]
+}
